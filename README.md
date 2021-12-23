@@ -1,6 +1,6 @@
 Hello! My name is Gleb, I am from Russia. I am software engineer on Java, C#, Node.js and Python.<br>
 Mostly I'm doing desktop programs with GUI and sites.
-Curently I'm working on applications build for more comfortable programing, named Barbaris (private at the moment, realise soon)
+Curently I'm working on applications build for more comfortable programing, named Barbaris
 
 ### 🔧 Technologies
 
