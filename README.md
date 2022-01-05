@@ -1,4 +1,4 @@
-Hello! My name is Gleb, I am from Russia. I am software engineer on Java, C#, Node.js and Python.<br>
+Hello! My name is Gleb, I am from Russia. I am software engineer on Java, C# and Node.js.<br>
 Mostly I'm doing desktop programs with GUI and sites.
 Curently I'm working on applications build for more comfortable programing, named Barbaris
 
@@ -6,13 +6,14 @@ Curently I'm working on applications build for more comfortable programing, name
 
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)</br>
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)</br>
 ![](https://img.shields.io/badge/Web-Spring-informational?style=flat-square&logo=spring&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Web-JavaEE-informational?style=flat-square&logo=java&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Framework-NodeJS-informational?style=flat-square&logo=node.js&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Web-Express-informational?style=flat-square&logo=express&logoColor=white&color=5194f0)<br>
 ![](https://img.shields.io/badge/Desktop-WPF-informational?style=flat-square&logo=windows&logoColor=white&color=5194f0)
 ![](https://img.shields.io/badge/Desktop-QT-informational?style=flat-square&logo=Qt&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Desktop-Electron-informational?style=flat-square&logo=electron&logoColor=white&color=5194f0)
 
 ### 📊 Stats
 
